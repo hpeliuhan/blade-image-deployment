@@ -1,0 +1,8 @@
+jsonpatch
+jsonpath_rw
+jsonpointer
+urllib3
+six
+python-ilorest-library
+python-ilorest-library[socks]
+certifi
